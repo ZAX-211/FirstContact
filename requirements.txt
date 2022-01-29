@@ -1,0 +1,3 @@
+    git mv Requirements.txt requirements.txt
+    git commit -m "Fix name of requirements file"
+    git push heroku master
